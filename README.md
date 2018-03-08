@@ -28,3 +28,4 @@ Step 4) In Postman :
 </br>
 -> GET localhost:3333/messages (HEADERS => Content-Type = application/x-www-form-urlencoded, token)
 </br>
+<img href="http://pm1.narvii.com/5727/780865a45e58a20d7c9d0f3c6a4ce9a555cb7f9d_00.jpg">
