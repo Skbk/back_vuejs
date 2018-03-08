@@ -6,9 +6,9 @@ STEP 2) create database (MongoDB) : TEST
 </br>
 STEP 3) In terminal :
 </br>
-FOR Nodemon users: npm run watch
+- FOR Nodemon users: npm run watch
 </br>
-FOR Ohers: npm run start 
+- FOR Ohers: npm run start 
 </br>
 Step 4) In Postman :
 </br>
