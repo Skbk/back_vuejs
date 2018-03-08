@@ -6,15 +6,15 @@ STEP 2) create database (MongoDB) : TEST
 </br>
 STEP 3) In terminal :
 </br>
-FOR Nodemon users: npm run watch
+=> FOR Nodemon users: npm run watch
 </br>
-FOR Ohers: npm run start 
+=> FOR Ohers: npm run start 
 </br>
 Step 4) In Postman :
 </br>
-- SET localhost:3333
+=> SET localhost:3333
 </br>
-- ROUTES :
+=> ROUTES :
 </br>
 -> GET localhost:3333
 </br>
@@ -28,4 +28,3 @@ Step 4) In Postman :
 </br>
 -> GET localhost:3333/messages (HEADERS => Content-Type = application/x-www-form-urlencoded, token)
 </br>
-
